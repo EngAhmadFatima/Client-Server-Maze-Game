@@ -1,0 +1,9 @@
+D:\visual studio 2015\Projects\MazeServer\MazeServer\bin\Debug\MazeServer.exe.config
+D:\visual studio 2015\Projects\MazeServer\MazeServer\obj\Debug\MazeServer.csprojResolveAssemblyReference.cache
+D:\visual studio 2015\Projects\MazeServer\MazeServer\obj\Debug\MazeServer.Properties.Resources.resources
+D:\visual studio 2015\Projects\MazeServer\MazeServer\obj\Debug\MazeServer.csproj.GenerateResource.Cache
+D:\visual studio 2015\Projects\MazeServer\MazeServer\bin\Debug\MazeServer.exe
+D:\visual studio 2015\Projects\MazeServer\MazeServer\bin\Debug\MazeServer.pdb
+D:\visual studio 2015\Projects\MazeServer\MazeServer\obj\Debug\MazeServer.exe
+D:\visual studio 2015\Projects\MazeServer\MazeServer\obj\Debug\MazeServer.pdb
+D:\visual studio 2015\Projects\MazeServer\MazeServer\obj\Debug\MazeServer.MazeServer.resources
